@@ -1,7 +1,7 @@
 === Contact Form 7 Honeypot ===
 Tags: honeypot, antispam, captcha, spam, form, forms, contact form 7, contactform7, contact form, cf7, cforms, Contact Forms 7, Contact Forms, contacts
-Requires at least: 2.8
-Tested up to: 3.8.1
+Requires at least: 3.5
+Tested up to: 3.8.3
 Stable tag: 1.6
 Contributors: DaoByDesign
 Donate link: http://www.daobydesign.com/buy-us-a-coffee/
@@ -18,7 +18,9 @@ The principle of a honeypot is simple -- <em>bots are stupid</em>. While some sp
 
 Follow us on [Twitter](http://www.twitter.com/daobydesign) and on [Facebook](http://www.facebook.com/daobydesign) for updates and news.
 
-Visit the [Contact Form 7 Honeypot plugin page](http://www.daobydesign.com/free-plugins/honeypot-module-for-contact-form-7-wordpress-plugin) for support & additional information.
+<strong>Support can be found [here](http://wordpress.org/support/plugin/contact-form-7-honeypot).</strong>
+
+Visit the [Contact Form 7 Honeypot plugin page](http://www.daobydesign.com/free-plugins/honeypot-module-for-contact-form-7-wordpress-plugin) for installation & additional information.
 
 <strong>NOTE:</strong> If your contact form honeypot shortcode is visible on your form after updating to CF7 3.6, please make sure you update to version 1.4 of this plugin or higher.
 
