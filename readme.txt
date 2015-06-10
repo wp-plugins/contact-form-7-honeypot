@@ -2,7 +2,7 @@
 Tags: honeypot, antispam, captcha, spam, form, forms, contact form 7, contactform7, contact form, cf7, cforms, Contact Forms 7, Contact Forms, contacts
 Requires at least: 3.5
 Tested up to: 4.2
-Stable tag: 1.6.3
+Stable tag: 1.6.4
 Contributors: DaoByDesign
 Donate link: http://www.daobydesign.com/buy-us-a-coffee/
 License: GPLv2 or later
@@ -62,6 +62,9 @@ add_filter('wpcf7_honeypot_html_output', 'my_honeypot_override', 10, 2 ); ?>`
 * Yep! New in version 1.5 of the plugin you're able to adjust the HTML by hooking the output filter for the plugin. See the **Installation** section for more details.
 
 == Changelog ==
+= 1.6.4 =
+Quick fix release to fix PHP error introduced in 1.6.3.
+
 = 1.6.3 =
 Updates to accommodate changes to the CF7 editor user interface.
 
